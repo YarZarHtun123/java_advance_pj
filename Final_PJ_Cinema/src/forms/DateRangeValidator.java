@@ -3,7 +3,6 @@ import java.util.Date;
 
 public class DateRangeValidator {
 
-	//test
     private final Date startDate;
     private final Date endDate;
 
