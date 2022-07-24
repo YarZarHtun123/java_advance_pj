@@ -25,7 +25,7 @@ import javax.swing.border.TitledBorder;
 import java.awt.Color;
 import javax.swing.UIManager;
 
-public class ActorForm {  
+public class ActorForm {   
 
 	JFrame frameActor;
 	private JTextField txtActorName;
